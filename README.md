@@ -1,5 +1,5 @@
 # Image-Morphing
-CGAP HW2
+
 ## Environment
 - Windows 11 64bit
 - Python 3.9.7
