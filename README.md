@@ -1,5 +1,3 @@
-# Image-Morphing
-
 ## Environment
 - Windows 11 64bit
 - Python 3.9.7
